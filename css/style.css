@@ -169,8 +169,26 @@ a:active {
     margin: 1rem 20vw 0 20vw;
 }
 
+#datenschutz-div-content-body > h2 {
+    font-family: 'Poppins', Arial;
+    margin: 1rem 20vw 0 20vw;
+}
+
+#datenschutz-div-content-body > ul {
+    font-family: 'Poppins', Arial;
+    margin: 1rem 20vw 0 20vw;
+}
+
 @media screen and (max-width: 900px) {
     #datenschutz-div-content-body > p {
+        margin: 1rem 5.5vw 0 5.5vw;
+    }
+    
+    #datenschutz-div-content-body > h2 {
+        margin: 1rem 5.5vw 0 5.5vw;
+    }
+    
+    #datenschutz-div-content-body > ul {
         margin: 1rem 5.5vw 0 5.5vw;
     }
 
